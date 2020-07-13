@@ -10,4 +10,3 @@ end
 end
 
 my_all?([1,2,3]) {|i| i < 2}
-binding.pry
